@@ -39,6 +39,8 @@ show_welcome_banner() {
     echo
     center_text "Welcome to $DB_NAME $DB_VERSION"
     center_text "Bash Database Management System"
+    center_text "Developed by Anas Nashat & Ali El-Gendy"
+    center_text "© $(date +%Y) - All Rights Reserved"
     echo
     draw_line
     echo -e "$COLOR_RESET"

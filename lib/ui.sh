@@ -53,6 +53,8 @@ show_exit_banner() {
     draw_line
     echo
     center_text "Thank you for using $DB_NAME"
+    center_text "Developed by Anas Nashat & Ali El-Gendy"
+    center_text "© $(date +%Y) - All Rights Reserved"
     center_text "Goodbye!"
     echo
     draw_line

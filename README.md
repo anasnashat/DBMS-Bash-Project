@@ -1,5 +1,5 @@
 
-# BashDB - A Simple Bash-based Database Management System
+# DBMS-Bash-Project - A Simple Bash-based Database Management System
 
 BashDB is a lightweight, command-line database management system (DBMS) built entirely using Bash scripting. It allows users to create, manage, and interact with databases and tables directly from the terminal. This project is designed for educational purposes and to demonstrate how a basic DBMS can be implemented using shell scripting.
 

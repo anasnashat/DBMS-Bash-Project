@@ -38,7 +38,7 @@ BashDB is a lightweight, command-line database management system (DBMS) built en
 
 2. Navigate to the project directory:
    ```bash
-   cd BashDB
+   cd DBMS-Bash-Project
    ```
 
 3. Make the script executable:
